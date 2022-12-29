@@ -1,2 +1,0 @@
-# TimeRotator
-Processing sketch 
